@@ -4,8 +4,6 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import nepalGeoJson from "./nepal.json";
 import { GeoJSON } from "react-leaflet";
-
-
 import icon2x from "leaflet/dist/images/marker-icon-2x.png";
 import icon from "leaflet/dist/images/marker-icon.png";
 import shadow from "leaflet/dist/images/marker-shadow.png";
