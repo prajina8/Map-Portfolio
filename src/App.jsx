@@ -48,7 +48,9 @@ export default function App() {
       },
     });
     return null;
+  
   }
+  
   const nepalBounds = [
   [26.347, 80.058],
   [30.447, 88.201],
